@@ -9,6 +9,7 @@ public class CharToString {
 		String text=new String(chararr);
 		
 		System.out.println(text);
+		//welcome to company
 		
 		
 	}
